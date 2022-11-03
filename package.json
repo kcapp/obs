@@ -1,0 +1,13 @@
+{
+    "name": "kcapp-obs",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node kcapp-obs"
+    },
+    "dependencies": {
+        "debug": "^4.3.2",
+        "kcapp-sio-client": "github:kcapp/kcapp-sio-client#4f298b816e01e689d219abd55a6d4548bc2352f4",
+        "obs-websocket-js": "^5.0.1"
+    }
+}
